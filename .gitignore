@@ -1,0 +1,10 @@
+.env
+.env.*
+.luojia/
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3*
+*.db*
+*.log
+.pytest_cache/
